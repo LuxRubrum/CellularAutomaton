@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj": {}
+    "H:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj": {}
   },
   "projects": {
-    "h:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj": {
+    "H:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj",
+        "projectUniqueName": "H:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj",
         "projectName": "CellularAutomaton",
-        "projectPath": "h:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj",
+        "projectPath": "H:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj",
         "packagesPath": "C:\\Users\\Upgrade-PC\\.nuget\\packages\\",
-        "outputPath": "h:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\obj\\",
+        "outputPath": "H:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

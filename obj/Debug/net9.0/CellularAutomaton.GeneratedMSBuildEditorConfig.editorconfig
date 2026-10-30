@@ -9,7 +9,7 @@ build_property.AvaloniaNameGeneratorAttachDevTools = true
 build_property.AvaloniaUseCompiledBindingsByDefault = true
 build_property.AvaloniaMainPackageVersion = 12.1.4
 build_property.AvaloniaPreviewerNetCoreToolPath = C:\Users\Upgrade-PC\.nuget\packages\avalonia\12.1.4\buildTransitive\\..\tools\net8.0\designer\Avalonia.Designer.HostApp.dll
-build_property.AvaloniaResourcePaths = h:\Uni\Практ. задания + семинары\CellularAutomaton\App.axaml,h:\Uni\Практ. задания + семинары\CellularAutomaton\MainWindow.axaml
+build_property.AvaloniaResourcePaths = H:\Uni\Практ. задания + семинары\CellularAutomaton\App.axaml,H:\Uni\Практ. задания + семинары\CellularAutomaton\MainWindow.axaml
 build_property.TargetFramework = net9.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -19,14 +19,14 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CellularAutomaton
-build_property.ProjectDir = h:\Uni\Практ. задания + семинары\CellularAutomaton\
+build_property.ProjectDir = H:\Uni\Практ. задания + семинары\CellularAutomaton\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[h:/Uni/Практ. задания + семинары/CellularAutomaton/App.axaml]
+[H:/Uni/Практ. задания + семинары/CellularAutomaton/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[h:/Uni/Практ. задания + семинары/CellularAutomaton/MainWindow.axaml]
+[H:/Uni/Практ. задания + семинары/CellularAutomaton/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

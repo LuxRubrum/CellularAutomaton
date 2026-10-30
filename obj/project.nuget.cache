@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpY7dUXSfNk=",
+  "dgSpecHash": "dlBJchWa86E=",
   "success": true,
-  "projectFilePath": "h:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj",
+  "projectFilePath": "H:\\Uni\\Практ. задания + семинары\\CellularAutomaton\\CellularAutomaton.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Upgrade-PC\\.nuget\\packages\\avalonia\\12.1.4\\avalonia.12.1.4.nupkg.sha512",
     "C:\\Users\\Upgrade-PC\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.27548.20260419\\avalonia.angle.windows.natives.2.1.27548.20260419.nupkg.sha512",
